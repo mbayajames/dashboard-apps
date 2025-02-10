@@ -1,0 +1,28 @@
+/* Assignment Card */
+.assignment-card {
+    background-color: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .assignment-card h3 {
+    color: #333;
+  }
+  
+  .assignment-card p {
+    color: #555;
+  }
+  
+  .assignment-card button {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
+  .assignment-card .submitted-message {
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
